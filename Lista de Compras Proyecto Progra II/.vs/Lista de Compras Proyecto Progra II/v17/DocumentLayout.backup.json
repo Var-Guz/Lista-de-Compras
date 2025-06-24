@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\davev\\OneDrive\\Desktop\\Progra 2\\Lista-de-Compras\\Lista de Compras Proyecto Progra II\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5044EC18-CA88-48D1-80D0-289E0EA03907}|Lista de Compras Proyecto Progra II.csproj|c:\\users\\davev\\onedrive\\desktop\\progra 2\\lista-de-compras\\lista de compras proyecto progra ii\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5044EC18-CA88-48D1-80D0-289E0EA03907}|Lista de Compras Proyecto Progra II.csproj|solutionrelative:views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5044EC18-CA88-48D1-80D0-289E0EA03907}|Lista de Compras Proyecto Progra II.csproj|c:\\users\\davev\\onedrive\\desktop\\progra 2\\lista-de-compras\\lista de compras proyecto progra ii\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5044EC18-CA88-48D1-80D0-289E0EA03907}|Lista de Compras Proyecto Progra II.csproj|solutionrelative:viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5044EC18-CA88-48D1-80D0-289E0EA03907}|Lista de Compras Proyecto Progra II.csproj|c:\\users\\davev\\onedrive\\desktop\\progra 2\\lista-de-compras\\lista de compras proyecto progra ii\\views\\editararticulopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5044EC18-CA88-48D1-80D0-289E0EA03907}|Lista de Compras Proyecto Progra II.csproj|solutionrelative:views\\editararticulopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5044EC18-CA88-48D1-80D0-289E0EA03907}|Lista de Compras Proyecto Progra II.csproj|c:\\users\\davev\\onedrive\\desktop\\progra 2\\lista-de-compras\\lista de compras proyecto progra ii\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5044EC18-CA88-48D1-80D0-289E0EA03907}|Lista de Compras Proyecto Progra II.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5044EC18-CA88-48D1-80D0-289E0EA03907}|Lista de Compras Proyecto Progra II.csproj|c:\\users\\davev\\onedrive\\desktop\\progra 2\\lista-de-compras\\lista de compras proyecto progra ii\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5044EC18-CA88-48D1-80D0-289E0EA03907}|Lista de Compras Proyecto Progra II.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5044EC18-CA88-48D1-80D0-289E0EA03907}|Lista de Compras Proyecto Progra II.csproj|c:\\users\\davev\\onedrive\\desktop\\progra 2\\lista-de-compras\\lista de compras proyecto progra ii\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5044EC18-CA88-48D1-80D0-289E0EA03907}|Lista de Compras Proyecto Progra II.csproj|solutionrelative:views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5044EC18-CA88-48D1-80D0-289E0EA03907}|Lista de Compras Proyecto Progra II.csproj|c:\\users\\davev\\onedrive\\desktop\\progra 2\\lista-de-compras\\lista de compras proyecto progra ii\\views\\editararticulopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5044EC18-CA88-48D1-80D0-289E0EA03907}|Lista de Compras Proyecto Progra II.csproj|solutionrelative:views\\editararticulopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5044EC18-CA88-48D1-80D0-289E0EA03907}|Lista de Compras Proyecto Progra II.csproj|c:\\users\\davev\\onedrive\\desktop\\progra 2\\lista-de-compras\\lista de compras proyecto progra ii\\viewmodels\\editararticuloviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5044EC18-CA88-48D1-80D0-289E0EA03907}|Lista de Compras Proyecto Progra II.csproj|solutionrelative:viewmodels\\editararticuloviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5044EC18-CA88-48D1-80D0-289E0EA03907}|Lista de Compras Proyecto Progra II.csproj|c:\\users\\davev\\onedrive\\desktop\\progra 2\\lista-de-compras\\lista de compras proyecto progra ii\\converters\\booltocheckconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5044EC18-CA88-48D1-80D0-289E0EA03907}|Lista de Compras Proyecto Progra II.csproj|solutionrelative:converters\\booltocheckconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5044EC18-CA88-48D1-80D0-289E0EA03907}|Lista de Compras Proyecto Progra II.csproj|c:\\users\\davev\\onedrive\\desktop\\progra 2\\lista-de-compras\\lista de compras proyecto progra ii\\converters\\booltoboldconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5044EC18-CA88-48D1-80D0-289E0EA03907}|Lista de Compras Proyecto Progra II.csproj|solutionrelative:converters\\booltoboldconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5044EC18-CA88-48D1-80D0-289E0EA03907}|Lista de Compras Proyecto Progra II.csproj|c:\\users\\davev\\onedrive\\desktop\\progra 2\\lista-de-compras\\lista de compras proyecto progra ii\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5044EC18-CA88-48D1-80D0-289E0EA03907}|Lista de Compras Proyecto Progra II.csproj|solutionrelative:viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5044EC18-CA88-48D1-80D0-289E0EA03907}|Lista de Compras Proyecto Progra II.csproj|c:\\users\\davev\\onedrive\\desktop\\progra 2\\lista-de-compras\\lista de compras proyecto progra ii\\models\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5044EC18-CA88-48D1-80D0-289E0EA03907}|Lista de Compras Proyecto Progra II.csproj|solutionrelative:models\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\davev\\OneDrive\\Desktop\\Progra 2\\Lista-de-Compras\\Lista de Compras Proyecto Progra II\\Views\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\davev\\OneDrive\\Desktop\\Progra 2\\Lista-de-Compras\\Lista de Compras Proyecto Progra II\\Views\\MainPage.xaml.cs",
+              "RelativeToolTip": "Views\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T05:39:29.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\davev\\OneDrive\\Desktop\\Progra 2\\Lista-de-Compras\\Lista de Compras Proyecto Progra II\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\davev\\OneDrive\\Desktop\\Progra 2\\Lista-de-Compras\\Lista de Compras Proyecto Progra II\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T05:26:38.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditarArticuloPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\davev\\OneDrive\\Desktop\\Progra 2\\Lista-de-Compras\\Lista de Compras Proyecto Progra II\\Views\\EditarArticuloPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\EditarArticuloPage.xaml.cs",
+              "ToolTip": "C:\\Users\\davev\\OneDrive\\Desktop\\Progra 2\\Lista-de-Compras\\Lista de Compras Proyecto Progra II\\Views\\EditarArticuloPage.xaml.cs",
+              "RelativeToolTip": "Views\\EditarArticuloPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T05:23:28.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EditarArticuloPage.xaml",
+              "DocumentMoniker": "C:\\Users\\davev\\OneDrive\\Desktop\\Progra 2\\Lista-de-Compras\\Lista de Compras Proyecto Progra II\\Views\\EditarArticuloPage.xaml",
+              "RelativeDocumentMoniker": "Views\\EditarArticuloPage.xaml",
+              "ToolTip": "C:\\Users\\davev\\OneDrive\\Desktop\\Progra 2\\Lista-de-Compras\\Lista de Compras Proyecto Progra II\\Views\\EditarArticuloPage.xaml",
+              "RelativeToolTip": "Views\\EditarArticuloPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-24T05:22:34.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EditarArticuloViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\davev\\OneDrive\\Desktop\\Progra 2\\Lista-de-Compras\\Lista de Compras Proyecto Progra II\\ViewModels\\EditarArticuloViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\EditarArticuloViewModel.cs",
+              "ToolTip": "C:\\Users\\davev\\OneDrive\\Desktop\\Progra 2\\Lista-de-Compras\\Lista de Compras Proyecto Progra II\\ViewModels\\EditarArticuloViewModel.cs",
+              "RelativeToolTip": "ViewModels\\EditarArticuloViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T05:21:14.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\davev\\OneDrive\\Desktop\\Progra 2\\Lista-de-Compras\\Lista de Compras Proyecto Progra II\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\davev\\OneDrive\\Desktop\\Progra 2\\Lista-de-Compras\\Lista de Compras Proyecto Progra II\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-24T04:24:08.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BoolToCheckConverter.cs",
+              "DocumentMoniker": "C:\\Users\\davev\\OneDrive\\Desktop\\Progra 2\\Lista-de-Compras\\Lista de Compras Proyecto Progra II\\Converters\\BoolToCheckConverter.cs",
+              "RelativeDocumentMoniker": "Converters\\BoolToCheckConverter.cs",
+              "ToolTip": "C:\\Users\\davev\\OneDrive\\Desktop\\Progra 2\\Lista-de-Compras\\Lista de Compras Proyecto Progra II\\Converters\\BoolToCheckConverter.cs",
+              "RelativeToolTip": "Converters\\BoolToCheckConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T04:23:45.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BoolToBoldConverter.cs",
+              "DocumentMoniker": "C:\\Users\\davev\\OneDrive\\Desktop\\Progra 2\\Lista-de-Compras\\Lista de Compras Proyecto Progra II\\Converters\\BoolToBoldConverter.cs",
+              "RelativeDocumentMoniker": "Converters\\BoolToBoldConverter.cs",
+              "ToolTip": "C:\\Users\\davev\\OneDrive\\Desktop\\Progra 2\\Lista-de-Compras\\Lista de Compras Proyecto Progra II\\Converters\\BoolToBoldConverter.cs",
+              "RelativeToolTip": "Converters\\BoolToBoldConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T04:22:56.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\davev\\OneDrive\\Desktop\\Progra 2\\Lista-de-Compras\\Lista de Compras Proyecto Progra II\\Views\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Views\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\davev\\OneDrive\\Desktop\\Progra 2\\Lista-de-Compras\\Lista de Compras Proyecto Progra II\\Views\\MainPage.xaml",
+              "RelativeToolTip": "Views\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-24T04:20:15.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\davev\\OneDrive\\Desktop\\Progra 2\\Lista-de-Compras\\Lista de Compras Proyecto Progra II\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\davev\\OneDrive\\Desktop\\Progra 2\\Lista-de-Compras\\Lista de Compras Proyecto Progra II\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T04:17:20.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\davev\\OneDrive\\Desktop\\Progra 2\\Lista-de-Compras\\Lista de Compras Proyecto Progra II\\ViewModels\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\BaseViewModel.cs",
+              "ToolTip": "C:\\Users\\davev\\OneDrive\\Desktop\\Progra 2\\Lista-de-Compras\\Lista de Compras Proyecto Progra II\\ViewModels\\BaseViewModel.cs",
+              "RelativeToolTip": "ViewModels\\BaseViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T04:17:08.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Articulo.cs",
+              "DocumentMoniker": "C:\\Users\\davev\\OneDrive\\Desktop\\Progra 2\\Lista-de-Compras\\Lista de Compras Proyecto Progra II\\Models\\Articulo.cs",
+              "RelativeDocumentMoniker": "Models\\Articulo.cs",
+              "ToolTip": "C:\\Users\\davev\\OneDrive\\Desktop\\Progra 2\\Lista-de-Compras\\Lista de Compras Proyecto Progra II\\Models\\Articulo.cs",
+              "RelativeToolTip": "Models\\Articulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T04:16:54.142Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
