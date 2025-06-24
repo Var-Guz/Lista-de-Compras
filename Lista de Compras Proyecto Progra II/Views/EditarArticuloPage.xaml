@@ -2,6 +2,8 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Lista_de_Compras_Proyecto_Progra_II.Views.EditarArticuloPage"
+             xmlns:converters="clr-namespace:Lista_de_Compras_Proyecto_Progra_II.Converters"
+
              Title="EditarArticuloPage">
     <StackLayout Padding="20">
         <Label Text="Editar Artículo" FontSize="24" HorizontalOptions="Center" />

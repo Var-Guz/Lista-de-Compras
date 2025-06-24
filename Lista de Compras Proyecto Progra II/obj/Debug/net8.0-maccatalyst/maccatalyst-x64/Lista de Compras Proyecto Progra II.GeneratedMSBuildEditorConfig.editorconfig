@@ -1,0 +1,55 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Lista_de_Compras_Proyecto_Progra_II
+build_property.ProjectDir = C:\Users\davev\OneDrive\Desktop\Progra 2\Lista-de-Compras\Lista de Compras Proyecto Progra II\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/davev/OneDrive/Desktop/Progra 2/Lista-de-Compras/Lista de Compras Proyecto Progra II/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Lista_de_Compras_Proyecto_Progra_II.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/davev/OneDrive/Desktop/Progra 2/Lista-de-Compras/Lista de Compras Proyecto Progra II/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Lista_de_Compras_Proyecto_Progra_II.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/davev/OneDrive/Desktop/Progra 2/Lista-de-Compras/Lista de Compras Proyecto Progra II/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Lista_de_Compras_Proyecto_Progra_II.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/davev/OneDrive/Desktop/Progra 2/Lista-de-Compras/Lista de Compras Proyecto Progra II/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Lista_de_Compras_Proyecto_Progra_II.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/davev/OneDrive/Desktop/Progra 2/Lista-de-Compras/Lista de Compras Proyecto Progra II/Views/EditarArticuloPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Lista_de_Compras_Proyecto_Progra_II.Views.EditarArticuloPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\EditarArticuloPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\EditarArticuloPage.xaml
+
+[C:/Users/davev/OneDrive/Desktop/Progra 2/Lista-de-Compras/Lista de Compras Proyecto Progra II/Views/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Lista_de_Compras_Proyecto_Progra_II.Views.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\MainPage.xaml

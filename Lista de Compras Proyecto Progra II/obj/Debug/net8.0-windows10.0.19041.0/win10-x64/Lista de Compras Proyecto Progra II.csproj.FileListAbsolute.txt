@@ -1,0 +1,13 @@
+C:\Users\davev\OneDrive\Desktop\Progra 2\Lista-de-Compras\Lista de Compras Proyecto Progra II\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Lista de Compras Proyecto Progra II.csproj.AssemblyReference.cache
+C:\Users\davev\OneDrive\Desktop\Progra 2\Lista-de-Compras\Lista de Compras Proyecto Progra II\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+C:\Users\davev\OneDrive\Desktop\Progra 2\Lista-de-Compras\Lista de Compras Proyecto Progra II\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+C:\Users\davev\OneDrive\Desktop\Progra 2\Lista-de-Compras\Lista de Compras Proyecto Progra II\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+C:\Users\davev\OneDrive\Desktop\Progra 2\Lista-de-Compras\Lista de Compras Proyecto Progra II\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+C:\Users\davev\OneDrive\Desktop\Progra 2\Lista-de-Compras\Lista de Compras Proyecto Progra II\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+C:\Users\davev\OneDrive\Desktop\Progra 2\Lista-de-Compras\Lista de Compras Proyecto Progra II\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+C:\Users\davev\OneDrive\Desktop\Progra 2\Lista-de-Compras\Lista de Compras Proyecto Progra II\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+C:\Users\davev\OneDrive\Desktop\Progra 2\Lista-de-Compras\Lista de Compras Proyecto Progra II\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Views\MainPage.xaml
+C:\Users\davev\OneDrive\Desktop\Progra 2\Lista-de-Compras\Lista de Compras Proyecto Progra II\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Views\EditarArticuloPage.xaml
+C:\Users\davev\OneDrive\Desktop\Progra 2\Lista-de-Compras\Lista de Compras Proyecto Progra II\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\Users\davev\OneDrive\Desktop\Progra 2\Lista-de-Compras\Lista de Compras Proyecto Progra II\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Views\MainPage.xbf
+C:\Users\davev\OneDrive\Desktop\Progra 2\Lista-de-Compras\Lista de Compras Proyecto Progra II\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Views\EditarArticuloPage.xbf
