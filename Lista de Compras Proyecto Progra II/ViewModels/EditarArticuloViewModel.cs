@@ -6,10 +6,13 @@ using System.Threading.Tasks;
 using Microsoft.Maui.Controls;
 using Lista_de_Compras_Proyecto_Progra_II.Models;
 using System.Windows.Input;
+using CommunityToolkit.Mvvm.ComponentModel;
+using CommunityToolkit.Mvvm.Input;
+
 
 namespace Lista_de_Compras_Proyecto_Progra_II.ViewModels
 {
-    public class EditarArticuloViewModel : BaseViewModel
+    public partial class EditarArticuloViewModel : BaseViewModel
     {
         public Articulo Articulo { get; set; }
 

@@ -7,6 +7,9 @@ using System.Threading.Tasks;
 using System.Windows.Input;
 using Lista_de_Compras_Proyecto_Progra_II.Models;
 using Lista_de_Compras_Proyecto_Progra_II.Views;
+using CommunityToolkit.Mvvm.ComponentModel;
+using CommunityToolkit.Mvvm.Input;
+
 
 
 namespace Lista_de_Compras_Proyecto_Progra_II.ViewModels
